@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F3218448-A774-4758-B5A9-C2D497572313</string>
+	<key>IDESourceControlProjectName</key>
+	<string>chikama</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8EE74EEF-F381-4C40-9888-39D616F42B84</key>
+		<string>https://github.com/Chikaman/chikama.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>chikama.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8EE74EEF-F381-4C40-9888-39D616F42B84</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Chikaman/chikama.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8EE74EEF-F381-4C40-9888-39D616F42B84</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8EE74EEF-F381-4C40-9888-39D616F42B84</string>
+			<key>IDESourceControlWCCName</key>
+			<string>chikama</string>
+		</dict>
+	</array>
+</dict>
+</plist>
